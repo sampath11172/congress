@@ -1,0 +1,184 @@
+.revanth{
+    text-align: center;
+    background-color: #222222;
+   
+}
+.heading{
+    color: rgb(255, 2, 2);
+    background-color: rgb(161, 255, 224);
+}
+.geetha1{
+    color: rgb(255, 0, 0);
+     border-color:
+    border-width: 2px;
+    border-style: solid;
+    margin: auto;
+}
+.geetha2{
+    color: rgb(255, 255, 255);
+}
+.geetha3{
+    color: rgb(100, 237, 127);
+}
+.geetha4{
+    color: red;
+}
+.angle{
+    text-align: middle;
+    color: yellowgreen;
+   
+}
+.rang{
+    background-image: "road.jpge";
+    font-size: 20px;
+}
+.bomma{
+    border-radius: 50%;
+}
+.youtube{
+    color: violet;
+}
+.rang2{
+    color: azure;
+    list-style-type: square;
+    list-style-position: outside ;
+    margin: auto;
+    background-color:rgb(0, 0, 0);
+}
+.rangt{
+    color: rgb(255, 0, 0);
+    border-color: rgb(255, 0, 0);
+}
+.rangtt{
+    color: rgb(17, 255, 0);
+    border-color: darkgreen;
+}
+.rangttt{
+    color: rgb(255, 255, 255);
+}
+.ranga{
+    color: rgb(17, 255, 0);
+}
+table, th, td {
+    border: 1px solid;
+    
+}
+ul {
+    color: aquamarine;
+}
+ol{
+    color: aquamarine;
+}
+.rangu{
+    color: red;
+}
+table{
+    margin: auto;
+}
+.ravv{
+    color: rgb(55, 227, 181);
+    text-align: center;
+    padding: 20px;
+    font-size: 25px;
+    background-color: lightslategrey;
+}
+.ragg{
+    color: azure;
+    text-align: left;
+}
+.rauu{
+    color: rgb(255, 1, 132);
+    font-size: 25px;
+}
+.varu{
+    color: rgb(131, 32, 142);
+    font-size: 25px;
+}
+.rangu0{
+    width: 200px;          /* Set a width for the list */
+  margin: 0 auto;       
+  
+}
+body{
+    height: 400vh;
+}
+.dub{
+    height: 250px;
+    width: 250px;
+    display: inline-block;
+    border-color: maroon;
+    border-style: solid;
+    border-width: 2px;
+    text-align:center;
+
+}
+.dub1{
+    position: static;
+    border-color: darkorchid;
+    border-style: 12px;
+    
+    font-size: medium;
+
+}
+.dub2{
+    position: static;
+    top: 32px;
+    bottom: 20px;
+    right: 20px;
+    font-size:medium;
+    
+}
+.dub3{
+    font-size: small;
+}
+.dub4{
+    position: static;
+    top: 32px;
+    
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    background-color: rgb(246, 127, 186);
+}
+.navbar-left{
+    padding-left: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
+.navbar-right{
+    justify-content: right;
+    padding-right: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.go{
+    padding: 20px;
+    border: 2px solid rgb(3, 34, 46);
+    border-radius: 200px;
+    margin: 10px;
+}
+.MLA{
+    background-color: rgb(61, 102, 61);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border: 3px solid red;
+}
+.MP{
+    background-color: rgb(61, 102, 61);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border: 3px solid red;
+}
